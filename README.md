@@ -46,10 +46,4 @@ Every commit represents progress, every project represents learning, and every b
 
 ---
 
-<div align="center">
 
-### ⭐ If you like this repository, don't forget to leave a star!
-
-Made with ❤️ by **Tarun Kumar Sahu**
-
-</div>
